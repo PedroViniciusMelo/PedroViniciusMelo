@@ -23,4 +23,8 @@
 - 🌱 Atualmente desenvolvendo projetos com React Native e Laravel
 - 🌟 Aprendendo sobre Typescript e Unity
 
+## 👀 Número de visitas
+<p align="center"> 
+ <img alingn="center" src="https://profile-counter.glitch.me/PedroViniciusMelo/count.svg" />
+</p>
 
