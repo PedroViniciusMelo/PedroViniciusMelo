@@ -1,16 +1,26 @@
-### Hi there 👋
+## Olá, me chamo Pedro Vinícius!
 
-<!--
-**PedroViniciusMelo/PedroViniciusMelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr style="background-color: #a7a7a7">
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/rafaballerini"></a>
+  <img height="180em" alt="Pedro-Status" src="https://github-readme-stats.vercel.app/api?username=PedroViniciusMelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" alt="Pedro-Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroViniciusMelo&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: block"><br>
+  <img  alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img  alt="Pedro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img  alt="Pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img  alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img  alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img  alt="Pedro-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img  alt="Pedro-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr style="background-color: #a7a7a7">
+
+- 📕 Estudante na Universidade Federal do Agreste de Pernambuco
+- 🌱 Atualmente desenvolvendo projetos com React Native e Laravel
+- 🌟 Aprendendo sobre Typescript e Unity
+
+
