@@ -26,6 +26,8 @@
 ## Gostaria de experimentar algumas aplicações que desenvolvi?
 
 Metricow: https://play.google.com/store/apps/details?id=com.uname.metricow&hl=pt_BR&gl=US
+<br>
 Notation: https://play.google.com/store/apps/details?id=com.uname.notation&hl=pt-BR
+<br>
 Parasitour: https://play.google.com/store/apps/details?id=com.uname.parasitour&hl=pt-BR
 
