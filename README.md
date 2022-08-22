@@ -3,7 +3,7 @@
 <hr style="background-color: #a7a7a7">
 
 <div>
-  <a href="https://github.com/rafaballerini"></a>
+  <a href="https://github.com/PedroViniciusMelo"></a>
   <img height="180em" alt="Pedro-Status" src="https://github-readme-stats.vercel.app/api?username=PedroViniciusMelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" alt="Pedro-Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroViniciusMelo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -23,4 +23,9 @@
 - 🌱 Atualmente desenvolvendo projetos com React Native e Laravel
 - 🌟 Aprendendo sobre Typescript e Unity
 
+## Gostaria de experimentar algumas aplicações que desenvolvi?
+
+Metricow: https://play.google.com/store/apps/details?id=com.uname.metricow&hl=pt_BR&gl=US
+Notation: https://play.google.com/store/apps/details?id=com.uname.notation&hl=pt-BR
+Parasitour: https://play.google.com/store/apps/details?id=com.uname.parasitour&hl=pt-BR
 
